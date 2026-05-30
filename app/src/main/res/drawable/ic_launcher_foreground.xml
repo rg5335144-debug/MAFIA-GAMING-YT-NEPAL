@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer concentric social wave 1 -->
+    <path
+        android:strokeColor="#9C27B0"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 32,24 A 38,38 0 0,1 76,24" />
+    <!-- Outer concentric social wave 2 -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 22,16 A 48,48 0 0,1 86,16" />
+    <!-- Center Play/Share bold badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 44,42 L 44,74 L 72,58 Z" />
+    <!-- Surrounding accent play border ring -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.0"
+        android:fillColor="#00000000"
+        android:pathData="M 54,32 A 26,26 0 1,1 53.99,32 Z" />
+</vector>

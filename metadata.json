@@ -1,0 +1,6 @@
+{
+  "name": "VibeShare",
+  "description": "A next-generation social network featuring standard community feed combined with TikTok-style vertical short-form video reels, robust profile interactions, post creations, and real-time community engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
